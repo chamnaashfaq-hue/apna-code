@@ -1,4 +1,4 @@
-# apna-code
+# learning java
 This is my first repository
 <br>
 Author-Amna Ashfaq

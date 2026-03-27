@@ -1,0 +1,20 @@
+This code contains:
+3 categories:
+Electronics, Furniture, Groceries
+Method 1 (fillInventory):
+Asks the user to enter stock for 5 items in each category
+If a negative number is entered → it automatically becomes 0
+Method 2 (checkRestock):
+Checks the stock and returns a status:
+Above 10 → "Healthy"
+5 to 10 → "Warning"
+1 to 4 → "Critical"
+0 → "Out of Stock"
+Method 3 (calculateTotalStock):
+Adds up all items and returns the total stock
+Main Method:
+Calls all the methods
+Prints the result in grid format like:
+Electronics: [Item1: 15 - Healthy] [Item2: 3 - Critical] ...
+Total Warehouse Stock: 75
+Basically it's a warehouse inventory system that tracks stock levels! 
